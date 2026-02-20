@@ -1,8 +1,11 @@
 # Calculate-Family-Expenses-Using-Service-Now
 This ServiceNow project automates family expense tracking using custom tables, relationships, and business rules. Daily expense entries automatically update totals and details in the Family Expenses table. It demonstrates GlideRecord scripting, form design, and workflow automation in ServiceNow.
 
+---
+
 **Video Demo:** https://drive.google.com/file/d/1O46K1mb-80c3BKNnMsBzr7umesoTZU-1/view?usp=sharing
 
+---
 **🎯 Problem Statement:**
 Families often rely on notebooks, spreadsheets, or memory to track expenses, which leads to errors, lack of visibility, and poor financial planning. This project solves these issues by providing:
 
