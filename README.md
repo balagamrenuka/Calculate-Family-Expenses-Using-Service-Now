@@ -19,8 +19,8 @@ Families often rely on notebooks, spreadsheets, or memory to track expenses, whi
 **🔧 Key Features**
 
 -**🗂️ Custom Tables:**
-• Family Expenses (Summary table)
-• Daily Expenses (Individual expense records)
+****Family Expenses (Summary table)
+****Daily Expenses (Individual expense records)
 
 -**🔢 Auto-Tracking:**
  Automatic calculation of total expenses
