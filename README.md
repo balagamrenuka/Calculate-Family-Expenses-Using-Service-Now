@@ -9,32 +9,35 @@ This ServiceNow project automates family expense tracking using custom tables, r
 **🎯 Problem Statement:**
 Families often rely on notebooks, spreadsheets, or memory to track expenses, which leads to errors, lack of visibility, and poor financial planning. This project solves these issues by providing:
 
-✅ Centralized expense tracking system
-🔄 Automated expense calculation using Business Rules
-📅 Date-wise and member-wise expense tracking
-📊 Real-time reports and expense summaries
-🔔 Organized and accurate financial record management
+-✅ Centralized expense tracking system
+-🔄 Automated expense calculation using Business Rules
+-📅 Date-wise and member-wise expense tracking
+-📊 Real-time reports and expense summaries
+-🔔 Organized and accurate financial record management
 
+---
 **🔧 Key Features**
-**🗂️ Custom Tables:**
+
+-**🗂️ Custom Tables:**
 • Family Expenses (Summary table)
 • Daily Expenses (Individual expense records)
 
-**🔢 Auto-Tracking:**
-• Automatic calculation of total expenses
+-**🔢 Auto-Tracking:**
+ Automatic calculation of total expenses
 
-**🔗 Table Relationships:**
-• Links daily expenses with family expense summary
+-**🔗 Table Relationships:**
+ Links daily expenses with family expense summary
 
-**⚙️ Business Rules Automation:**
-• Automatically updates total amount and expense details
+-**⚙️ Business Rules Automation:**
+ Automatically updates total amount and expense details
 
-**📊 Reports & Dashboards:**
-• View expense trends and total spending
+-**📊 Reports & Dashboards:**
+ View expense trends and total spending
 
-**🔒 Secure and Structured System:**
-• Organized expense tracking using ServiceNow platform
+-**🔒 Secure and Structured System:**
+Organized expense tracking using ServiceNow platform
 
+---
 **📂 How It Works**
 
 📝 User adds a daily expense record
@@ -42,6 +45,8 @@ Families often rely on notebooks, spreadsheets, or memory to track expenses, whi
 ⚙️ Business Rule automatically updates family expense summary
 📊 Users can view total expenses and reports
 📈 Helps families monitor and manage spending efficiently
+
+---
 
 **👨‍💻 Built With**
 
@@ -51,16 +56,18 @@ Families often rely on notebooks, spreadsheets, or memory to track expenses, whi
 • ServiceNow Reporting & Dashboards
 • ServiceNow Cloud Platform
 
+---
+
 **👥 Team Members**
 
 Team ID: LTVIP2026TMIDS24859
 
-👩‍💻 Team Leader: Balagam Renuka lakshmi Devi
-👨‍💻A. Manaswini
-👨‍💻A. Veda Varshini
-👨‍💻A. Pravallika 
+-👩‍💻 Team Leader: Balagam Renuka lakshmi Devi
+-👨‍💻A. Manaswini
+-👨‍💻A. Veda Varshini
+-👨‍💻A. Pravallika 
 
-
+---
 **🎓 License & Purpose**
 
 This project was developed as part of an academic internship and is intended for educational purposes only. It demonstrates how ServiceNow’s low-code platform can be used to automate expense tracking and improve financial management using centralized data and workflow automation.
